@@ -6,7 +6,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "chain": "node main.js"
+    "chain": "node src/main.js"
   },
   "devDependencies": {
     "crypto-js": "^3.1.9-1"

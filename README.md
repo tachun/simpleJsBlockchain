@@ -1,5 +1,5 @@
 # simpleJsBlockchain
-Learn blockchains with building a simplest javascript blockchain
+Small project help me to understand how a simplest blockchain works
 
 ## Getting Started
 
@@ -11,4 +11,12 @@ Learn blockchains with building a simplest javascript blockchain
 `yarn install`
 
 ### Run
-`yarn chain` or `node main.js`
+`yarn chain`
+
+### Todo
+- [ ] Wallet Private key / Public key / Signature
+- [ ] Wallet balance live checking
+- [ ] Improvement Transaction / Process / Input / Output
+- [ ] Check more security problems
+- [ ] Add a small html to test and view result in browser
+- [ ] And more....
