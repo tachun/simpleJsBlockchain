@@ -1,0 +1,14 @@
+{
+  "name": "simpleJsBlockchain",
+  "version": "0.1.0",
+  "main": "main.js",
+  "author": "Tachun LIN",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "chain": "node main.js"
+  },
+  "devDependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
